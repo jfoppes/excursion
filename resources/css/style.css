@@ -1,11 +1,46 @@
+body {
+  background-color: black;
+}
+
 h1{
   font-size: 50;
   font-weight: normal;
   font-family: Verdana;
   color: white;
+  text-align: center;
+  }
 
 
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
 }
-.landing{
-  background-color: black;
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+.vid {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  text-align: center;
+}
+#copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: right;
 }
